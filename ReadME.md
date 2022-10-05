@@ -5,7 +5,7 @@
 Oke ;D
 -->
 
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/rOE4aekrInAAAAAi/cat-sniff.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/alLqVQIWh24AAAAi/cat-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Get to know me.***
 
