@@ -12,7 +12,7 @@ Oke ;D
 Hello i am a student from denmark i code alot of different things in my freetime, i post alot of them here!
 You are welcome to ask me further questions on discord!
 
-* **I am interested in Web designing, Android development, and digital marketing**
+* **I am open for helping with ur projects.**
 - ⚙ My current projects
   - Discord Tools
   - PC Tools
