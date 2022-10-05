@@ -14,7 +14,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 - ⚙ My current projects
   - Discord Tools
   - PC Tools
-- 📫 You can reach out to me by using discord or twitter.</a>
+- 📫 Reach out to me
+  - Discord: mxrcus#0001</a>
 
 __Check out my GitHub repository:__
 
