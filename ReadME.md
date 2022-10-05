@@ -9,7 +9,9 @@ Oke ;D
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Get to know me.***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+Hello i am a student from denmark i code alot of different things in my freetime, i post alot of them here!
+You are welcome to ask me further questions on discord!
+
 * **I am interested in Web designing, Android development, and digital marketing**
 - ⚙ My current projects
   - Discord Tools
