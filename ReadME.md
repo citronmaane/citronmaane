@@ -7,7 +7,7 @@ Oke ;D
 
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/alLqVQIWh24AAAAi/cat-cute.gif" />
 
-## <img src="https://media.tenor.com/VuZtyPVFtyMAAAAi/black-cat.gif" width="30px">&nbsp;***Who am i?***
+## <img src="https://media.tenor.com/nSTFScxyuvMAAAAi/vamouz-mouz.gif" width="30px">&nbsp;***Who am i?***
 
 Hello i am a student from denmark i code alot of different things in my freetime, i post alot of them here!
 You are welcome to ask me further questions on discord!
@@ -19,7 +19,7 @@ You are welcome to ask me further questions on discord!
 - 📫 Reach out to me
   - Discord: mxrcus#0001</a>
 
-## <img src="https://media.tenor.com/8D-NHvM03pEAAAAi/black-cat.gif" width="30px">&nbsp;***Some of my projects***
+## <img src="https://media.tenor.com/nSTFScxyuvMAAAAi/vamouz-mouz.gif" width="30px">&nbsp;***Some of my projects***
 
 <div>
   <p>
