@@ -19,7 +19,7 @@ You are welcome to ask me further questions on discord!
 - 📫 Reach out to me
   - Discord: mxrcus#0001</a>
 
-__Check out my GitHub repository:__
+__Some of my projects:__
 
 <div>
   <p>
