@@ -19,7 +19,7 @@ You are welcome to ask me further questions on discord!
 - 📫 Reach out to me
   - Discord: mxrcus#0001</a>
 
-## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30px">&nbsp;***Some of my projects***
+## <img src="https://media.tenor.com/8D-NHvM03pEAAAAi/black-cat.gif" width="30px">&nbsp;***Some of my projects***
 
 <div>
   <p>
